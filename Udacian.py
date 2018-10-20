@@ -19,5 +19,6 @@ class Udacian:
         
              
 p = Udacian('fatima','jeddah','enrolment','full stack ','single')
+p2 = Udacian('Doaa','Riyadh','graduate','programming','married')
 
 p.print_udacian()
